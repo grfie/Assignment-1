@@ -19,7 +19,7 @@
 <p>I spend a lot of my free time dancing, singing, and pretending I am on a Broadway stage playing every single cast member! I spend a lot of time listening to a musicals and trying to sing the main vocals, back up vocals, harmonies, and instruments all at the same time!</p>
 <p> I hope that gave you a bit of an insight into me! Follow the below links to find our more...</p>
 
-<h4><a href="file:///C:/Users/grace/OneDrive/Desktop/Intro%20to%20IT/A2.1%20Interest%20in%20IT.htm">Interest in IT</a></h4>
+<h4><a href="index-pageone.html">Interest in IT</a></h4>
 <h4><a href="file:///C:/Users/grace/OneDrive/Desktop/Intro%20to%20IT/Ideal%20Job2.htm">My Ideal IT Job</a></h4>
 <h4><a href="file:///C:/Users/grace/OneDrive/Desktop/Intro%20to%20IT/Personal%20Profile2.htm">Personal Profile</a></h4>
 <h4><a href="file:///C:/Users/grace/OneDrive/Desktop/Intro%20to%20IT/Project%20Idea/Project%20Idea2.htm">Project Idea</a></h4>
