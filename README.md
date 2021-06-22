@@ -20,9 +20,9 @@
 <p> I hope that gave you a bit of an insight into me! Follow the below links to find our more...</p>
 
 <h4><a href="index-pageone.html">Interest in IT</a></h4>
-<h4><a href="file:///C:/Users/grace/OneDrive/Desktop/Intro%20to%20IT/Ideal%20Job2.htm">My Ideal IT Job</a></h4>
-<h4><a href="file:///C:/Users/grace/OneDrive/Desktop/Intro%20to%20IT/Personal%20Profile2.htm">Personal Profile</a></h4>
-<h4><a href="file:///C:/Users/grace/OneDrive/Desktop/Intro%20to%20IT/Project%20Idea/Project%20Idea2.htm">Project Idea</a></h4>
+<h4><a href="index-pagetwo.html">My Ideal IT Job</a></h4>
+<h4><a href="index-pagethree.html">Personal Profile</a></h4>
+<h4><a href="index-pagefour.html">Project Idea</a></h4>
 
 </body>
 </html>
